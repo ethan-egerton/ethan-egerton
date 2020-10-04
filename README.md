@@ -1,5 +1,4 @@
-### Hello, I'm Ethan 
-
+# Hello, I'm Ethan 
 ## I'm a Developer and Producer
 -  I want to become a Django stack developer
 -  I produce music as a hobby
