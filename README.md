@@ -1,4 +1,4 @@
-### Hello, I'm Ethan [website] 
+### Hello, I'm Ethan 
 
 ## I'm a Developer and Producer
 -  I want to become a Django stack developer
