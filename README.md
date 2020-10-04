@@ -1,8 +1,8 @@
-### Hello, I'm Ethan - aka [DBNO][website] 👋
+### Hello, I'm Ethan [website] 
 
-## I'm a Developer and Producer!
-- 🖥 I want to become a Django stack developer
-- 🎧 I produce music as a hobby
+## I'm a Developer and Producer
+-  I want to become a Django stack developer
+-  I produce music as a hobby
 
 
 ### Connect with me:
@@ -35,6 +35,8 @@
 
 ### 🎶 Latest SoundCloud Tracks
 
+
+- [DBNO - Here Without](https://soundcloud.com/dbno/here-without)
 - [(((0))) - Color (DBNO remix)](https://soundcloud.com/dbno/color)
 - [(((0))) - mood out there (DBNO remix)](https://soundcloud.com/thesundropgarden/mood-out-there-1)
 
