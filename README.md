@@ -1,4 +1,3 @@
-# Hello, I'm Ethan 
 ## I'm a Developer and Producer
 ### Connect with me:
 
