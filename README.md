@@ -1,12 +1,3 @@
-### Connect with me:
-
-[<img align="left" alt="ethan-egerton.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dbnomusic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dbnomusic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="dbno | Soundcloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][soundcloud]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,7 +19,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-egerton&theme=radical&hide=c%23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[website]: https://ethan-egerton.github.io/
-[twitter]: https://twitter.com/dbnomusic
-[instagram]: https://www.instagram.com/dbnomusic/
-[soundcloud]: https://soundcloud.com/dbno
