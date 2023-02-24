@@ -1,4 +1,5 @@
-![IMG](https://github.com/ethan-egerton/ethan-egerton/blob/c7138539975ac115e9b71066c35e3c133c45b00a/imG.jpg)
+<img src="https://github.com/ethan-egerton/ethan-egerton/blob/c7138539975ac115e9b71066c35e3c133c45b00a/imG.jpg" alt="Image of a beach, taken close to the shore line, just after sunset. Light bouncing off the water with a city in the far distance.">
+
 ## Skilled with
 ### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
