@@ -21,5 +21,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Attended Events
-- Hack Pompey 2023 (in March)
+- Hack Pompey 2023
 - [HackSussex 2023](https://github.com/NoSharp/checkedon.tech)
