@@ -1,4 +1,4 @@
-<img src="https://github.com/ethan-egerton/ethan-egerton/blob/c7138539975ac115e9b71066c35e3c133c45b00a/imG.jpg" alt="Image of a beach, taken close to the shoreline, just after sunset. Light bouncing off the water with a city in the far distance.">
+<kbd><img src="https://github.com/ethan-egerton/ethan-egerton/blob/c7138539975ac115e9b71066c35e3c133c45b00a/imG.jpg" alt="Image of a beach, taken close to the shoreline, just after sunset. Light bouncing off the water with a city in the far distance."> <kbd>
 
 ## Skilled with
 
@@ -19,11 +19,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Learning
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Attended Events
 
