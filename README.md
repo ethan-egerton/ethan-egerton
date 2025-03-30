@@ -27,6 +27,7 @@
 
 ## Attended Events
 
+- [Hack Pompey 2025](https://github.com/runtime-terr0rs/hack-pompey-2025)
 - WeAreDevelopers 2024
 - [Hack Pompey 2024](https://github.com/runtime-terr0rs/hack-pompey-2024)
 - Hack Pompey 2023
